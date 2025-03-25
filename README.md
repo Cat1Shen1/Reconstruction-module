@@ -8,6 +8,7 @@ B. Operating environment requirements:
     1. Point Cloud Library （PCL ）：1.12.1
     2. Visualization Toolkit （VTK ）：9.1
     3. Database （MySQL ）: 5.5
+    4. Qt Create: 5.14.2
 
 C. Installation instructions:
     Run the executable file 'setup. exe' and follow the prompts to complete the installation to use this software.
