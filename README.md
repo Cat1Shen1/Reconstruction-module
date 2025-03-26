@@ -11,7 +11,7 @@
     4. Qt Create: 5.14.2
 
 ## C. Installation instructions:
-    Run the executable file 'setup. exe' and follow the prompts to complete the installation to use this software.
+    Run the executable file 'Blade Reconstruction.msi' and follow the prompts to complete the installation to use this software.
 
 ## D. Update plan:
     We will continue to update software functional modules and provide subsequent version updates. Please stay tuned.
